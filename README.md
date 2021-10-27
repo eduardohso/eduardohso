@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Eduardo
+- 🌱 I’m currently learning web development
