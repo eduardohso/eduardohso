@@ -3,7 +3,7 @@
 
 <hr/>
 
-<div>
+<div align="center">
   <a href="https://github.com/eduardohso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardohso&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohso&theme=github_dark&layout=compact&langs_count=6"/>
@@ -23,5 +23,7 @@
   <a href = "mailto:eduardohsoliveira1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-hs-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+ 
+<hr/>
   
   ![Snake animation](https://github.com/eduardohso/eduardohso/blob/output/github-contribution-grid-snake.svg)
